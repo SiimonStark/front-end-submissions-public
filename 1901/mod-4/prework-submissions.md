@@ -58,9 +58,9 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ## Justin Pyktel
 
-* [Node Server Tutorial]()
-* [Annotated Express server file]()
-* [Promise Practice Exercises]()
+* [Node Server Tutorial](https://github.com/SiimonStark/JP_PreWork-Submission/blob/master/Node-HTTP_server.js)
+* [Annotated Express server file](https://github.com/SiimonStark/JP_PreWork-Submission/blob/master/Annotated-TK_app.js)
+* [Promise Practice Exercises](https://repl.it/@SiimonStark/Promises-Pledges)
 
 ## Kelly Zick
 
